@@ -1,0 +1,14 @@
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.deps.json
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.json
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.runtimeconfig.dev.json
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.dll
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cache
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorAssemblyInfo.cs
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfoInputs.cache
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.AssemblyInfo.cs
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.RazorTargetAssemblyInfo.cache
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.dll
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.pdb
+E:\Excel System Work\5-12-2019\convertEFToDapper\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
